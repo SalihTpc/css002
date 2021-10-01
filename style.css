@@ -16,11 +16,10 @@ body {
 }
 img {
   float: left;
-  max-width: 400px;
-  max-height: 265px;
-  width: auto;
-  height: auto;
+  width: 400px;
   margin-right: 2%;
+  max-width: 100%;
+  height: auto;
 }
 h1 {
   margin-bottom: 1%;
